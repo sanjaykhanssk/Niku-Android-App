@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "467228040338",
+    "firebase_url": "https://niku-1531031167486.firebaseio.com",
+    "project_id": "niku-1531031167486",
+    "storage_bucket": "niku-1531031167486.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467228040338:android:7abf8952b33b6ef9",
+        "android_client_info": {
+          "package_name": "com.example.ssk.nikufirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467228040338-gjbvcd5emg99lirfv0rjonbtb7q5qeim.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ssk.nikufirebase",
+            "certificate_hash": "8f5781e8c77a03626c5e7043b7946f8fa1a67570"
+          }
+        },
+        {
+          "client_id": "467228040338-tj1a8pe5jrkamr6hktf8jpkte4jum271.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaOAmS9RCCRPuK7wKlMHKcP6_ceArvTGI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467228040338-tj1a8pe5jrkamr6hktf8jpkte4jum271.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
